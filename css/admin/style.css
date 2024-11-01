@@ -1,0 +1,13 @@
+.expire{
+background: url('../../images/expired.png') 10px 4px no-repeat;
+padding-left:30px;
+}
+
+.timestamp-wrap input, 
+.timestamp-wrap select{
+font-size:8pt !important;
+padding:1px !important;
+}
+.timestamp-wrap select{
+font-size:10px !important;
+}
